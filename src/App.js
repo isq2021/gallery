@@ -42,7 +42,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <h1> POTO GALLERY </h1> <p> Enjoy! </p> <hr />
+        <h1> PHOTO GALLERY </h1> <p> Enjoy! </p> <hr />
         <div className="gallery"> {displayPICS} </div>{" "}
       </div>{" "}
       <ReactPaginate
